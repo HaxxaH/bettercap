@@ -1,7 +1,7 @@
 package network
 
 import (
-	"github.com/bettercap/bettercap/core"
+	"github.com/evilsocket/islazy/str"
 )
 
 // Hi, i'm Android and my mum said I'm special.
